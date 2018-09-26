@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Base_Notas.Models.notas>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Note</h2>
+
+
+<!--Para el formulario-->
+<!--Para la consulta linq-->
+<div class="container">
+       <div class="col-lg-10">
+            <div class="form-horizontal form-inline">
+                <form method="post" action="~/notas/Index">
+                    <input type="text" name="filtro" required placeholder="Matter" class="btn btn-default" />
+                    <input type="submit" value="Search" class="btn btn-default" />
+                </form>
+            </div>
+        </div>
+</div>
+<br >
+<p>
+<button type="button" value="Create" class="btn btn-default">
+    @Html.ActionLink("Create New", "Create")
+</button>
+<button type="button" value="Create" class="btn btn-default">
+    @Html.ActionLink("show all", "Index")
+</button>
+</p>
+<table style="color:black ; background-color:lightgray" class="table table-hover table-bordered">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Matter
+        </th>
+        <th>
+            Teacher
+        </th>
+        <th>
+            Note
+        </th>
+        <th>
+            Description
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.alumnos.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Materias.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Profesores.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nota)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td>
+
+                <button type="button" value="Crear" class="btn btn-default">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.id })
+                </button>
+                <button type="button" value="Crear" class="btn btn-default">
+                    @Html.ActionLink("Details", "Details", new { id = item.id })
+                </button>
+                <button type="button" value="Crear" class="btn btn-default">
+                    @Html.ActionLink("Delete", "Delete", new { id = item.id })
+                </button>
+            </td>
+        </tr>
+    }
+
+</table>

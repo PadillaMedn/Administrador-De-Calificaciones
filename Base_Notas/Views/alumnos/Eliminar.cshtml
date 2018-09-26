@@ -1,0 +1,53 @@
+﻿@model Base_Notas.Models.alumnos
+
+@{
+    ViewBag.Title = "Delete";
+    String msj = ViewBag.errorMsj;
+}
+
+<h2 style="color:black">Delete</h2>
+
+<h3 style="color:black">Are you sure to eliminate this field?</h3>
+<div style="color:black">
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           Name:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            Last Name:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apellido)
+        </dd>
+
+        <dt>
+            Age:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Edad)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+       <div class="form-actions ">
+        <input type="submit" value="Delete" class="btn btn-default" />
+        <button class="btn btn-default">
+            @Html.ActionLink("Back", "Index")
+             </button>
+       </div>
+
+       <h1 class="text-danger"> @msj</h1>
+    }
+</div>

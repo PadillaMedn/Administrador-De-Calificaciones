@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Base_Notas.Models.Materias>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="color:black">Subject</h2>
+
+<p>
+  <div>
+      <button type="button" value="Crear" class="btn btn-default">
+          @Html.ActionLink("Create new", "Crear")
+      </button>
+  </div>
+   
+</p>
+<table style="color:black ; background-color:lightgray" class="table table-hover table-bordered">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            <button type="button" value="Crear" class="btn btn-default">
+                @Html.ActionLink("Edit", "Editar", new { id = item.id })
+            </button>
+            <button type="button" value="Crear" class="btn btn-default">
+                @Html.ActionLink("Details", "Detalles", new { id = item.id })
+            </button>
+            <button type="button" value="Crear" class="btn btn-default">
+                @Html.ActionLink("Delete", "Eliminar", new { id = item.id })
+            </button>
+        </td>
+    </tr>
+}
+
+</table>

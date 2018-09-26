@@ -1,0 +1,47 @@
+﻿/*mnodifica el color y ancho del fondo */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color:antiquewhite;
+}
+/* Establecer relleno para evitar que el contenido golpee los bordes*/
+    .body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Reemplazar el comportamiento de arranque predeterminado donde las listas de descripción horizontal
+    truncará los términos que son demasiado largos para caber en la columna de la izquierda
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Establecer el ancho en los elementos de entrada del formulario ya que son 100% de ancho por defecto */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+/* modifica el color del jumbotron color*/
+.color {
+    background-color: lightgrey;
+    
+}
+/*para cambiarle color a la barra de informacio*/
+.text {
+    background-color: rgb(217, 179, 140);
+}
+.textt{
+   text-decoration-color:blue;
+}
+.navbar-inverse .navbar-brand {
+    color: black;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    color: black;
+}
+a{
+    color:black;
+}

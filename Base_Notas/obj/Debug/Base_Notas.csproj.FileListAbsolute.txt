@@ -1,0 +1,612 @@
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\ApplicationInsights.config
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Base_Notas.dll.config
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Base_Notas.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Base_Notas.pdb
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\csc.exe
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\csc.exe.config
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\csc.rsp
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\csi.exe
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\csi.exe.config
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\csi.rsp
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.AppContext.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Console.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.IO.Compression.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.IO.Pipes.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Security.AccessControl.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Security.Claims.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Threading.Thread.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.ValueTuple.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\vbc.exe
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\vbc.exe.config
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\vbc.rsp
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Antlr3.Runtime.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\EntityFramework.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Newtonsoft.Json.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.Helpers.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.Mvc.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.Optimization.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.Razor.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.WebPages.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\WebGrease.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\EntityFramework.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.Helpers.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.Mvc.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.Optimization.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.Razor.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.WebPages.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Antlr3.Runtime.pdb
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Newtonsoft.Json.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.xml
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\es\System.Web.Helpers.resources.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\es\System.Web.Mvc.resources.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\es\System.Web.Optimization.resources.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\es\System.Web.Razor.resources.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.resources.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csprojResolveAssemblyReference.cache
+c:\users\hp\source\repos\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CopyComplete
+c:\users\hp\source\repos\Base_Notas\Base_Notas\obj\Debug\Base_Notas.dll
+c:\users\hp\source\repos\Base_Notas\Base_Notas\obj\Debug\Base_Notas.pdb
+H:\Base_Notas\Base_Notas\bin\ApplicationInsights.config
+H:\Base_Notas\Base_Notas\bin\Base_Notas.dll.config
+H:\Base_Notas\Base_Notas\bin\Base_Notas.dll
+H:\Base_Notas\Base_Notas\bin\Base_Notas.pdb
+H:\Base_Notas\Base_Notas\bin\roslyn\csc.exe
+H:\Base_Notas\Base_Notas\bin\roslyn\csc.exe.config
+H:\Base_Notas\Base_Notas\bin\roslyn\csc.rsp
+H:\Base_Notas\Base_Notas\bin\roslyn\csi.exe
+H:\Base_Notas\Base_Notas\bin\roslyn\csi.exe.config
+H:\Base_Notas\Base_Notas\bin\roslyn\csi.rsp
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.AppContext.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Collections.Immutable.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Console.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.Process.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.IO.Compression.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.IO.Pipes.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Reflection.Metadata.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Security.AccessControl.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Claims.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Threading.Thread.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.ValueTuple.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Base_Notas\Base_Notas\bin\roslyn\vbc.exe
+H:\Base_Notas\Base_Notas\bin\roslyn\vbc.exe.config
+H:\Base_Notas\Base_Notas\bin\roslyn\vbc.rsp
+H:\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe
+H:\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe.config
+H:\Base_Notas\Base_Notas\bin\Antlr3.Runtime.dll
+H:\Base_Notas\Base_Notas\bin\EntityFramework.dll
+H:\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.dll
+H:\Base_Notas\Base_Notas\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.dll
+H:\Base_Notas\Base_Notas\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.dll
+H:\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.dll
+H:\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.dll
+H:\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Base_Notas\Base_Notas\bin\Microsoft.Web.Infrastructure.dll
+H:\Base_Notas\Base_Notas\bin\Newtonsoft.Json.dll
+H:\Base_Notas\Base_Notas\bin\System.Web.Helpers.dll
+H:\Base_Notas\Base_Notas\bin\System.Web.Mvc.dll
+H:\Base_Notas\Base_Notas\bin\System.Web.Optimization.dll
+H:\Base_Notas\Base_Notas\bin\System.Web.Razor.dll
+H:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.dll
+H:\Base_Notas\Base_Notas\bin\System.Web.WebPages.dll
+H:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.dll
+H:\Base_Notas\Base_Notas\bin\WebGrease.dll
+H:\Base_Notas\Base_Notas\bin\EntityFramework.xml
+H:\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.xml
+H:\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Base_Notas\Base_Notas\bin\System.Web.Helpers.xml
+H:\Base_Notas\Base_Notas\bin\System.Web.Mvc.xml
+H:\Base_Notas\Base_Notas\bin\System.Web.Optimization.xml
+H:\Base_Notas\Base_Notas\bin\System.Web.Razor.xml
+H:\Base_Notas\Base_Notas\bin\System.Web.WebPages.xml
+H:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.xml
+H:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.xml
+H:\Base_Notas\Base_Notas\bin\Antlr3.Runtime.pdb
+H:\Base_Notas\Base_Notas\bin\Newtonsoft.Json.xml
+H:\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.xml
+H:\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.xml
+H:\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.xml
+H:\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.xml
+H:\Base_Notas\Base_Notas\bin\es\System.Web.Helpers.resources.dll
+H:\Base_Notas\Base_Notas\bin\es\System.Web.Mvc.resources.dll
+H:\Base_Notas\Base_Notas\bin\es\System.Web.Optimization.resources.dll
+H:\Base_Notas\Base_Notas\bin\es\System.Web.Razor.resources.dll
+H:\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.resources.dll
+H:\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Deployment.resources.dll
+H:\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Razor.resources.dll
+H:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csprojAssemblyReference.cache
+H:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CoreCompileInputs.cache
+H:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CopyComplete
+H:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.dll
+H:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.pdb
+F:\Base_Notas\Base_Notas\bin\ApplicationInsights.config
+F:\Base_Notas\Base_Notas\bin\Base_Notas.dll.config
+F:\Base_Notas\Base_Notas\bin\Base_Notas.dll
+F:\Base_Notas\Base_Notas\bin\Base_Notas.pdb
+F:\Base_Notas\Base_Notas\bin\roslyn\csc.exe
+F:\Base_Notas\Base_Notas\bin\roslyn\csc.exe.config
+F:\Base_Notas\Base_Notas\bin\roslyn\csc.rsp
+F:\Base_Notas\Base_Notas\bin\roslyn\csi.exe
+F:\Base_Notas\Base_Notas\bin\roslyn\csi.exe.config
+F:\Base_Notas\Base_Notas\bin\roslyn\csi.rsp
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.AppContext.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Collections.Immutable.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Console.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.Process.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.IO.Compression.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.IO.Pipes.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Reflection.Metadata.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Security.AccessControl.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Claims.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Threading.Thread.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.ValueTuple.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Base_Notas\Base_Notas\bin\roslyn\vbc.exe
+F:\Base_Notas\Base_Notas\bin\roslyn\vbc.exe.config
+F:\Base_Notas\Base_Notas\bin\roslyn\vbc.rsp
+F:\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe
+F:\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe.config
+F:\Base_Notas\Base_Notas\bin\Antlr3.Runtime.dll
+F:\Base_Notas\Base_Notas\bin\EntityFramework.dll
+F:\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.dll
+F:\Base_Notas\Base_Notas\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.dll
+F:\Base_Notas\Base_Notas\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.dll
+F:\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.dll
+F:\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.dll
+F:\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Base_Notas\Base_Notas\bin\Microsoft.Web.Infrastructure.dll
+F:\Base_Notas\Base_Notas\bin\Newtonsoft.Json.dll
+F:\Base_Notas\Base_Notas\bin\System.Web.Helpers.dll
+F:\Base_Notas\Base_Notas\bin\System.Web.Mvc.dll
+F:\Base_Notas\Base_Notas\bin\System.Web.Optimization.dll
+F:\Base_Notas\Base_Notas\bin\System.Web.Razor.dll
+F:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.dll
+F:\Base_Notas\Base_Notas\bin\System.Web.WebPages.dll
+F:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.dll
+F:\Base_Notas\Base_Notas\bin\WebGrease.dll
+F:\Base_Notas\Base_Notas\bin\EntityFramework.xml
+F:\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.xml
+F:\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Base_Notas\Base_Notas\bin\System.Web.Helpers.xml
+F:\Base_Notas\Base_Notas\bin\System.Web.Mvc.xml
+F:\Base_Notas\Base_Notas\bin\System.Web.Optimization.xml
+F:\Base_Notas\Base_Notas\bin\System.Web.Razor.xml
+F:\Base_Notas\Base_Notas\bin\System.Web.WebPages.xml
+F:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.xml
+F:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.xml
+F:\Base_Notas\Base_Notas\bin\Antlr3.Runtime.pdb
+F:\Base_Notas\Base_Notas\bin\Newtonsoft.Json.xml
+F:\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.xml
+F:\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.xml
+F:\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.xml
+F:\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.xml
+F:\Base_Notas\Base_Notas\bin\es\System.Web.Helpers.resources.dll
+F:\Base_Notas\Base_Notas\bin\es\System.Web.Mvc.resources.dll
+F:\Base_Notas\Base_Notas\bin\es\System.Web.Optimization.resources.dll
+F:\Base_Notas\Base_Notas\bin\es\System.Web.Razor.resources.dll
+F:\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.resources.dll
+F:\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CoreCompileInputs.cache
+F:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CopyComplete
+F:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.dll
+F:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.pdb
+G:\Base_Notas\Base_Notas\bin\ApplicationInsights.config
+G:\Base_Notas\Base_Notas\bin\Base_Notas.dll.config
+G:\Base_Notas\Base_Notas\bin\Base_Notas.dll
+G:\Base_Notas\Base_Notas\bin\Base_Notas.pdb
+G:\Base_Notas\Base_Notas\bin\roslyn\csc.exe
+G:\Base_Notas\Base_Notas\bin\roslyn\csc.exe.config
+G:\Base_Notas\Base_Notas\bin\roslyn\csc.rsp
+G:\Base_Notas\Base_Notas\bin\roslyn\csi.exe
+G:\Base_Notas\Base_Notas\bin\roslyn\csi.exe.config
+G:\Base_Notas\Base_Notas\bin\roslyn\csi.rsp
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.AppContext.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Collections.Immutable.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Console.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.Process.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.IO.Compression.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.IO.Pipes.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Reflection.Metadata.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Security.AccessControl.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Claims.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Threading.Thread.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.ValueTuple.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Base_Notas\Base_Notas\bin\roslyn\vbc.exe
+G:\Base_Notas\Base_Notas\bin\roslyn\vbc.exe.config
+G:\Base_Notas\Base_Notas\bin\roslyn\vbc.rsp
+G:\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe
+G:\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe.config
+G:\Base_Notas\Base_Notas\bin\Antlr3.Runtime.dll
+G:\Base_Notas\Base_Notas\bin\EntityFramework.dll
+G:\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.dll
+G:\Base_Notas\Base_Notas\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.dll
+G:\Base_Notas\Base_Notas\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.dll
+G:\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.dll
+G:\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.dll
+G:\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Base_Notas\Base_Notas\bin\Microsoft.Web.Infrastructure.dll
+G:\Base_Notas\Base_Notas\bin\Newtonsoft.Json.dll
+G:\Base_Notas\Base_Notas\bin\System.Web.Helpers.dll
+G:\Base_Notas\Base_Notas\bin\System.Web.Mvc.dll
+G:\Base_Notas\Base_Notas\bin\System.Web.Optimization.dll
+G:\Base_Notas\Base_Notas\bin\System.Web.Razor.dll
+G:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.dll
+G:\Base_Notas\Base_Notas\bin\System.Web.WebPages.dll
+G:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.dll
+G:\Base_Notas\Base_Notas\bin\WebGrease.dll
+G:\Base_Notas\Base_Notas\bin\EntityFramework.xml
+G:\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.xml
+G:\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Base_Notas\Base_Notas\bin\System.Web.Helpers.xml
+G:\Base_Notas\Base_Notas\bin\System.Web.Mvc.xml
+G:\Base_Notas\Base_Notas\bin\System.Web.Optimization.xml
+G:\Base_Notas\Base_Notas\bin\System.Web.Razor.xml
+G:\Base_Notas\Base_Notas\bin\System.Web.WebPages.xml
+G:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.xml
+G:\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.xml
+G:\Base_Notas\Base_Notas\bin\Antlr3.Runtime.pdb
+G:\Base_Notas\Base_Notas\bin\Newtonsoft.Json.xml
+G:\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.xml
+G:\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.xml
+G:\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.xml
+G:\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.xml
+G:\Base_Notas\Base_Notas\bin\es\System.Web.Helpers.resources.dll
+G:\Base_Notas\Base_Notas\bin\es\System.Web.Mvc.resources.dll
+G:\Base_Notas\Base_Notas\bin\es\System.Web.Optimization.resources.dll
+G:\Base_Notas\Base_Notas\bin\es\System.Web.Razor.resources.dll
+G:\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.resources.dll
+G:\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csprojResolveAssemblyReference.cache
+G:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CoreCompileInputs.cache
+G:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CopyComplete
+G:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.dll
+G:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.pdb
+F:\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Base_Notas.dll.config
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Base_Notas.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Base_Notas.pdb
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\WebGrease.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CopyComplete
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\obj\Debug\Base_Notas.dll
+C:\Users\HP\Desktop\Base_Notas\Base_Notas\obj\Debug\Base_Notas.pdb
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Base_Notas.dll.config
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Base_Notas.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Base_Notas.pdb
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\WebGrease.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\obj\Debug\Base_Notas.csproj.CopyComplete
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\obj\Debug\Base_Notas.dll
+C:\Users\HP\Desktop\Para subir\Base_Notas\Base_Notas\obj\Debug\Base_Notas.pdb

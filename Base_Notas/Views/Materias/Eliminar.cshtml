@@ -1,0 +1,39 @@
+﻿@model Base_Notas.Models.Materias
+
+@{
+    ViewBag.Title = "Eliminar";
+    String msj = ViewBag.errorMsj;
+}
+
+<h2 >Eliminar</h2>
+
+<h3>Are you sure to eliminate this field?</h3>
+<div>
+    <h4>Subjects</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Name of subject:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+      <div class="form-actions ">
+        <input type="submit" value="Delete" class="btn btn-default" />
+
+        <button class="btn btn-default">
+            @Html.ActionLink("Back", "Index")
+            </button>
+
+       </div>
+
+      <h1 class="text-danger"> @msj</h1>
+    }
+ </div>

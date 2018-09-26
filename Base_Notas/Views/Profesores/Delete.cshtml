@@ -1,0 +1,49 @@
+﻿@model Base_Notas.Models.Profesores
+
+@{
+    ViewBag.Title = "Delete";
+    <!--Para recibir informacion del controlador-->
+    String msj = ViewBag.errorMsj;
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure to eliminate this field?</h3>
+<div>
+    <h4>Teacher</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            Last Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apellido)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" />
+
+            <button class="btn btn-default">
+                @Html.ActionLink("Back", "Index")
+            </button>
+
+        </div>
+        <!--Para presentar el mensaje del tray -->
+        <h1 class="text-danger"> @msj</h1>
+    }
+</div>

@@ -1,0 +1,40 @@
+﻿@model Base_Notas.Models.Profesores
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Teacher</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            Last Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apellido)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <div>
+        <button class="btn btn-default">
+            @Html.ActionLink("Edit", "Edit", new { id = Model.id })
+        </button>
+        <button class="btn btn-default">
+            @Html.ActionLink("Back", "Index")
+        </button>
+    </div>
+</p>
